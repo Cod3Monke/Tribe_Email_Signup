@@ -30,8 +30,6 @@ header {
 
 .image-container {
   display: flex;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
   margin: 3rem 3rem;
   background-color: #cbf7f3;
   box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
@@ -39,7 +37,7 @@ header {
 
 .app_demo {
   width: 50%;
-  margin: auto;
+  margin: 4vh auto;
 }
 
 .right {
